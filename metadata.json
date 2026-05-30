@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Wallet id GR",
+  "description": "Secure digital wallet for government-issued documents including Resident Permits, Driving Licenses, and Passports with biometric authentication and QR verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
